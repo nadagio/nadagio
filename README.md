@@ -14,9 +14,9 @@ Mi prioridad es siempre optimizar procesosy contribuir a la mejora continua en l
 
 ☑Python: limpieza y analisis exploratorio de datos (librerias de Seaborn, Matplotlib, NumPy y Pandas).
 
-Siempre en búsqueda de nuevos desafíos, disfruto aprender nuevas herramientas y metodologías que me permitan crecer profesionalmente.
-
 ## Contacto:
 
 ✉️adagionoelia@gmail.com
 📱+54 9 3424363123
+
+Siempre en búsqueda de nuevos desafíos, disfruto aprender nuevas herramientas y metodologías que me permitan crecer profesionalmente.
